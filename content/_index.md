@@ -74,7 +74,15 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation 
+      view: citation
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1' 
   # - block: experience
   #   content:
   #     title: Experience
@@ -206,14 +214,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: talks
     content:
