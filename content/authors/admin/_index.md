@@ -57,8 +57,8 @@ skills:
       - name: GNSS
         description: ''
         percent: 90
-        icon: satellite
-        icon_pack: fab
+        icon: 🛰️
+        icon_pack: fas
       - name: Sensor
         description: ''
         percent: 40
