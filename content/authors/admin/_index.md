@@ -11,13 +11,13 @@ last_name: Shen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🖥️🎸
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,8 +31,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - GNSS Precise Positioning
   - State Estimation for Robotics
-  - Redundant Homogeneous Sensors
-  - Resilient Integration and Online Calibration
+  - Redundant Sensors
+  - Resilient Integration
+  - Online Sensor Calibration
   - Indoor and Outdoor Positioning
 
 # Education to show in About widget
