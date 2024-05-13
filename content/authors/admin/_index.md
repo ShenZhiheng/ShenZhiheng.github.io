@@ -34,7 +34,7 @@ interests:
   - Redundant Sensors
   - Resilient Integration
   - Online Sensor Calibration
-  - Indoor and Outdoor Positioning
+  - Indoor-Outdoor Positioning
 
 # Education to show in About widget
 education:
