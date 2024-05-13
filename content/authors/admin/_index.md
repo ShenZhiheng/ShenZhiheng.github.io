@@ -75,7 +75,7 @@ skills:
     items:
       - name: Guitar
         description: ''
-        percent: 60
+        percent: 40
         icon: guitar
         icon_pack: fas
       - name: Cats
@@ -83,10 +83,10 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Pig
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: pig
         icon_pack: fas
 
 # Social/Academic Networking
