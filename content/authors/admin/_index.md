@@ -54,20 +54,20 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: GNSS
         description: ''
-        percent: 80
-        icon: python
+        percent: 90
+        icon: satellite
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+      - name: Sensor
         description: ''
         percent: 40
-        icon: database
+        icon: sensor
+        icon_pack: far
+      - name: Coding
+        description: ''
+        percent: 60
+        icon: code
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -75,17 +75,17 @@ skills:
     items:
       - name: Guitar
         description: ''
-        percent: 40
+        percent: 60
         icon: guitar
         icon_pack: fas
-      - name: Cats
+      - name: Running
         description: ''
-        percent: 100
-        icon: cat
+        percent: 50
+        icon: person-running
         icon_pack: fas
       - name: Pig
         description: ''
-        percent: 80
+        percent: 100
         icon: piggy-bank
         icon_pack: fas
 
@@ -123,6 +123,6 @@ social:
 highlight_name: true
 ---
 
-I am Zhiheng Shen 🖥️🎸, and I am currently working toward the Ph.D. degree in geodesy and survey engineering. I received the B.Eng. and M.Eng. degrees in geodesy and survey engineering in 2019 and 2022, respectively, from Wuhan University, Wuhan, China.
+I am Zhiheng Shen 🖥️🎸, and I am currently working toward the Ph.D. degree in geodesy and survey engineering. I received the B.Eng.🎓 and M.Eng.🎓 degrees in geodesy and survey engineering in 2019 and 2022, respectively, from Wuhan University, Wuhan, China.
 My current research interests include Global Navigation Satellite System (GNSS) precise positioning, state estimation for robotics, resilient integration and online calibration of multi-sensors, and synergy of redundant homogeneous sensors.
 {style="text-align: justify;"}
