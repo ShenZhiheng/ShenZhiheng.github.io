@@ -54,7 +54,7 @@ education:
 skills:
   - name: Technical
     items:
-      - name: GNSS
+      - name: 🛰️ GNSS
         description: ''
         percent: 90
         icon: 🛰️
