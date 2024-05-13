@@ -31,20 +31,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - GNSS Precise Positioning
   - State Estimation for Robotics
-  - Information Retrieval
+  - Redundant Homogeneous Sensors
+  - Resilient Integration and Online Calibration
+  - Indoor and Outdoor Positioning
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+      institution: School of Geodesy and Geomatics, Wuhan University
+      year: 2025 (Projected)
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: School of Geodesy and Geomatics, Wuhan University
+      year: 2022
+    - course: BSc in Geodesy and Survey Engineering
+      institution: School of Geodesy and Geomatics, Wuhan University
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhiheng Shen is currently working toward the Ph.D. degree in geodesy and survey engineering. His current research interests include GNSS precise positioning, resilient integration and online calibration of multi-sensors, state estimation for robotic navigation, and synergy of redundant homogeneous sensors.
 {style="text-align: justify;"}
