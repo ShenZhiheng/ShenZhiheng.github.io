@@ -86,7 +86,7 @@ skills:
       - name: Pig
         description: ''
         percent: 80
-        icon: pig
+        icon: piggy-bank
         icon_pack: fas
 
 # Social/Academic Networking
