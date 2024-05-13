@@ -123,5 +123,6 @@ social:
 highlight_name: true
 ---
 
-Zhiheng Shen is currently working toward the Ph.D. degree in geodesy and survey engineering. His current research interests include GNSS precise positioning, resilient integration and online calibration of multi-sensors, state estimation for robotic navigation, and synergy of redundant homogeneous sensors.
+I am Zhiheng Shen, and am currently working toward the Ph.D. degree in geodesy and survey engineering. I received the B.Eng. and M.Eng. degrees in geodesy and survey engineering in 2019 and 2022, respectively, from Wuhan University, Wuhan, China.
+My current research interests include GNSS precise positioning, resilient integration and online calibration of multi-sensors, state estimation for robotic navigation, and synergy of redundant homogeneous sensors.
 {style="text-align: justify;"}
