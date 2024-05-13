@@ -73,10 +73,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Guitar
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: guitar
         icon_pack: fas
       - name: Cats
         description: ''
