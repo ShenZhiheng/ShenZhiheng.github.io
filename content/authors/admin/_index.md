@@ -3,7 +3,7 @@
 title: 申志恒
 
 # Name pronunciation (optional)
-name_pronunciation: Zhiheng Shen 🖥️🎸
+name_pronunciation: 🖥️ Zhiheng Shen 🎸
 
 # Full name (for SEO)
 first_name: Zhiheng
