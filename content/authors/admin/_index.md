@@ -57,17 +57,17 @@ skills:
       - name: 🛰️ GNSS
         description: ''
         percent: 90
-        icon: 🛰️
+        icon: 
         icon_pack: fas
-      - name: Sensor
+      - name: 📷 Sensor
         description: ''
-        percent: 40
-        icon: sensor
+        percent: 80
+        icon:
         icon_pack: far
-      - name: Coding
+      - name: 🖥️ Coding
         description: ''
         percent: 60
-        icon: code
+        icon:
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
