@@ -38,10 +38,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Geodesy and Survey Engineering
       institution: School of Geodesy and Geomatics, Wuhan University
       year: 2025 (Projected)
-    - course: MEng in Artificial Intelligence
+    - course: MEng in Geodesy and Survey Engineering
       institution: School of Geodesy and Geomatics, Wuhan University
       year: 2022
     - course: BSc in Geodesy and Survey Engineering
