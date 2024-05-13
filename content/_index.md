@@ -76,6 +76,7 @@ sections:
       columns: '2'
       view: citation
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
