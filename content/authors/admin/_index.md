@@ -95,12 +95,12 @@ skills:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+    icon_pack: far
+    link: mailto:none@example.org
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/77638898
-    label: Follow me on Twitter
+    label: Follow me on Bilibili
     display:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -124,5 +124,5 @@ highlight_name: true
 ---
 
 I am Zhiheng Shen, and I am currently working toward the Ph.D. degree in geodesy and survey engineering. I received the B.Eng. and M.Eng. degrees in geodesy and survey engineering in 2019 and 2022, respectively, from Wuhan University, Wuhan, China.
-My current research interests include GNSS precise positioning, resilient integration and online calibration of multi-sensors, state estimation for robotic navigation, and synergy of redundant homogeneous sensors.
+My current research interests include Global Navigation Satellite System (GNSS) precise positioning, resilient integration and online calibration of multi-sensors, state estimation for robotics, and synergy of redundant homogeneous sensors.
 {style="text-align: justify;"}
