@@ -106,9 +106,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fab
     link: https://scholar.google.com/citations?user=6bf4frgAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Zhiheng-Shen
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-5319-4839
