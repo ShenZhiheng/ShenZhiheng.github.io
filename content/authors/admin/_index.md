@@ -45,7 +45,7 @@ education:
     - course: MEng in Geodesy and Survey Engineering
       institution: School of Geodesy and Geomatics, Wuhan University
       year: 2022
-    - course: BSc in Geodesy and Survey Engineering
+    - course: BEng in Geodesy and Survey Engineering
       institution: School of Geodesy and Geomatics, Wuhan University
       year: 2019
 
