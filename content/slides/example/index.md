@@ -140,7 +140,7 @@ Customize the slide style and background
 
 ```markdown
 {{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#894276" */>}}
+{{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
 ```
 
@@ -156,7 +156,7 @@ Create `assets/css/reveal_custom.css` with:
 .reveal section h1,
 .reveal section h2,
 .reveal section h3 {
-  color: #894276;
+  color: navy;
 }
 ```
 

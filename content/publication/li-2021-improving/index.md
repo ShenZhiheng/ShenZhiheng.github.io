@@ -13,4 +13,6 @@ publishDate: '2024-05-13T03:20:30.736661Z'
 publication_types:
 - article-journal
 publication: '*Journal of Geodesy*'
+featured: icon.png
+
 ---
